@@ -127,3 +127,22 @@ a.link-arrow {
     padding-left: 0rem;
   }
 }
+
+/* Icons */
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+.icon--primary {
+  fill: var(--color-primary);
+}
+.icon--secondary {
+  fill: var(--color-secondary);
+}
+.icon-container {
+  padding: 5rem 5rem;
+  background-color: #f3f9fa;
+  border-radius: 100%;
+  display: inline-block;
+}
